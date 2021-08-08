@@ -9,7 +9,7 @@ This project was designed to illustrate the use of HTML, CSS, JavaScr
 ## Github Repo and Website link 
  https://jordanarachel.github.io/Phase-1-Project/
  
- [!link](your link)
+ [!link](https://jordanarachel.github.io/Phase-1-Project/)
 
 ## features 
 - Two Modals
